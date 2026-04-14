@@ -33,7 +33,7 @@ I'm a passionate mobile developer focused on building smooth, high-quality cross
 - 📱 Currently building cross-platform mobile apps with React Native
 - 🤝 Open to collaborate on mobile app projects
 - 💬 Ask me about **React Native**, **Android**, **Kotlin**, **Java**
-- 📫 Reach me: imarufhasan@gmail.com
+- 📫 Reach me: marufhasan.cse@gmail.com
 
 ---
 
