@@ -1,4 +1,4 @@
-# Hi there, I'm Aruf Hasan 👋
+# Hi there, I'm Maruf Hasan 👋
 
 ### 📱 Mobile App Developer | React Native Specialist
 
